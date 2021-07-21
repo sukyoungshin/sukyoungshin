@@ -26,7 +26,7 @@ So far, I've been experienced these followings: <br><br>
 <img src="https://img.shields.io/badge/-Illustrator-%23FF9A00?&logo=adobeillustrator&logoColor=white" alt="Adobe 일러스트레이터">
 <img src="https://img.shields.io/badge/-Figma-%23F24E1E?&logo=figma&logoColor=white" alt="피그마">
 </div>
-<br><br>
+<br>
 
 #### 💡 IF YOU WANT TO CONTACT ME...
 
