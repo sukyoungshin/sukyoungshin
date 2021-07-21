@@ -30,8 +30,7 @@ So far, I've been experienced these followings: <br><br>
 
 #### 💡 IF YOU WANT TO CONTACT ME...
 
-Please feel free to contact me via 📫 sukyoung.dev@gmail.com <br><br>
-
+Please feel free to contact me via 📫 sukyoung.dev@gmail.com <br>
 Also, if you want to look around, here are my websites for you. <br><br>
 <a href="https://velog.io/@sukyoungshin" target="_blank"><img src="https://img.shields.io/badge/Velog-20c997?style=flat-square&logo=Vimeo&logoColor=white"/></a>
 <a href="https://github.com/sukyoungshin" target="_blank"><img src="https://img.shields.io/badge/-GitHub-%23181717?&logo=github&logoColor=white"></a>
