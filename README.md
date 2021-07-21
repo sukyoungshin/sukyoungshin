@@ -1,8 +1,8 @@
 ### Hi there! 👋
 
-This is SuKyoung Shin from South Korea.<br>
-I'm currently learning a variety of IT techs to be a front-end developer.<br>
-So far, I've been experienced these followings: <br><br>
+This is <b>SuKyoung Shin</b> from South Korea.<br>
+I'm currently learning a variety of IT techs to be <b>a front-end developer.</b><br>
+So far, I've been experienced these followings: <br>
 
 
 #### 💻 TECH STACK
