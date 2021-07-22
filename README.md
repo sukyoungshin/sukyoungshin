@@ -34,6 +34,6 @@ Please feel free to contact me via 📫 sukyoung.dev@gmail.com <br>
 Also, if you want to look around, here are my websites for you. <br><br>
 <a href="https://velog.io/@sukyoungshin" target="_blanket"><img src="https://img.shields.io/badge/Velog-20c997?style=flat-square&logo=Vimeo&logoColor=white"/></a>
 <a href="https://github.com/sukyoungshin" target="_blanket"><img src="https://img.shields.io/badge/-GitHub-%23181717?&logo=github&logoColor=white"></a>
-<a href="https://codepen.io/sukyoungshin" target="_blanket"><img src="https://img.shields.io/badge/-Codepen-%23000000?&logo=codepen&logoColor=white"></a><br>
+<a href="https://codepen.io/sukyoung" target="_blanket"><img src="https://img.shields.io/badge/-Codepen-%23000000?&logo=codepen&logoColor=white"></a><br>
 
 Thanks!
