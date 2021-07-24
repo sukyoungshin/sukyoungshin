@@ -2,7 +2,7 @@
 
 This is <b>SuKyoung Shin</b> from South Korea.<br>
 I'm currently learning a variety of IT techs to be <b>a front-end developer.</b><br>
-So far, I've used these following stacks (at least once). <br><br>
+So far, I've used these following stacks (at least once) : <br><br>
 
 
 #### 💻 TECH STACK
