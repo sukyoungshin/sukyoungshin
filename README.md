@@ -21,19 +21,19 @@ So far, I've used these following stacks (at least once) : <br><br>
 ### 🎨 USED TOOLS
 
 - Collaborate : 
-<img src="https://img.shields.io/badge/-Git-%23F05032?&logo=git&logoColor=white" alt="깃">
-<img src="https://img.shields.io/badge/-GitHub-%23181717?&logo=github&logoColor=white" alt="깃허브">
-<img src="https://img.shields.io/badge/-Figma-%23F24E1E?&logo=figma&logoColor=white" alt="피그마">
+    <img src="https://img.shields.io/badge/-Git-%23F05032?&logo=git&logoColor=white" alt="깃">
+    <img src="https://img.shields.io/badge/-GitHub-%23181717?&logo=github&logoColor=white" alt="깃허브">
+    <img src="https://img.shields.io/badge/-Figma-%23F24E1E?&logo=figma&logoColor=white" alt="피그마">
 
 - Deployment :
-<img src="https://img.shields.io/badge/-netlify-%2300C7B7?&logo=netlify&logoColor=white" alt="netlify">
+    <img src="https://img.shields.io/badge/-netlify-%2300C7B7?&logo=netlify&logoColor=white" alt="netlify">
 
 - Editor :
-<img src="https://img.shields.io/badge/-Visual%20Studio%20Code-%23007ACC?&logo=visualstudiocode&logoColor=white" alt="비쥬얼 스튜디오 코드">
+    <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-%23007ACC?&logo=visualstudiocode&logoColor=white" alt="비쥬얼 스튜디오 코드">
     
 - Design :
-<img src="https://img.shields.io/badge/-Photoshop-%2331A8FF?&logo=adobephotoshop&logoColor=white" alt="Adobe 포토샵">
-<img src="https://img.shields.io/badge/-Illustrator-%23FF9A00?&logo=adobeillustrator&logoColor=white" alt="Adobe 일러스트레이터">
+    <img src="https://img.shields.io/badge/-Photoshop-%2331A8FF?&logo=adobephotoshop&logoColor=white" alt="Adobe 포토샵">
+    <img src="https://img.shields.io/badge/-Illustrator-%23FF9A00?&logo=adobeillustrator&logoColor=white" alt="Adobe 일러스트레이터">
 
 
 <br>
