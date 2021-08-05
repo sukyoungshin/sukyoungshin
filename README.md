@@ -33,7 +33,6 @@ So far, I've used these following stacks (at least once) : <br><br>
     
 - Design :
     <img src="https://img.shields.io/badge/-Photoshop-%2331A8FF?&logo=adobephotoshop&logoColor=white" alt="Adobe 포토샵">
-    <img src="https://img.shields.io/badge/-Illustrator-%23FF9A00?&logo=adobeillustrator&logoColor=white" alt="Adobe 일러스트레이터">
 
 
 <br>
