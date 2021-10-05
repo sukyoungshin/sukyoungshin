@@ -31,10 +31,6 @@ So far, I've used these following stacks (at least once) : <br><br>
 - Editor :
     <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-%23007ACC?&logo=visualstudiocode&logoColor=white" alt="비쥬얼 스튜디오 코드">
     
-- Design :
-    <img src="https://img.shields.io/badge/-Photoshop-%2331A8FF?&logo=adobephotoshop&logoColor=white" alt="Adobe 포토샵">
-
-
 <br>
 
 #### 💡 IF YOU WANT TO CONTACT ME...
