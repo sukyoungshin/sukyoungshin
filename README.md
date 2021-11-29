@@ -1,3 +1,4 @@
+Portfolio
 
 👋 Hi there! This is <b>SuKyoung Shin</b> from South Korea.<br>
 I'm currently learning a variety of IT techs to be <b>a front-end developer.</b> <br><br>
@@ -13,4 +14,6 @@ I'm currently learning a variety of IT techs to be <b>a front-end developer.</b>
 🤝 Cooperative <br/><br>
 
 ## Get in touch
-Please feel free to contact me anytime via 📫 sukyoung.dev@gmail.com . Thanks!
+- Email: sukyoung.dev@gmail.com
+
+Please feel free to contact me anytime via my email address above. Thanks!
