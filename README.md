@@ -1,5 +1,3 @@
-Portfolio
-
 👋 Hi there! This is <b>SuKyoung Shin</b> from South Korea.<br>
 I'm currently learning a variety of IT techs to be <b>a front-end developer.</b> <br><br>
 
