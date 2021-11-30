@@ -12,6 +12,4 @@ I'm currently learning a variety of IT techs to be <b>a front-end developer.</b>
 🤝 Cooperative <br/><br>
 
 ## Get in touch
-- Email: sukyoung.dev@gmail.com
-
-Please feel free to contact me anytime via my email address above. Thanks!
+Please feel free to contact me anytime via my email address : 📬sukyoung.dev@gmail.com. Thanks!
