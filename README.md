@@ -8,7 +8,7 @@ I'm currently learning a variety of IT techs to be <b>a front-end developer.</b>
 
 ## My values
 ✨ Self-driven learning attitude. <br/>
-🧐 Trying to improve code better. <br/>
+🧐 Trying to improve code more readable. <br/>
 🤝 Cooperative <br/><br>
 
 ## Get in touch
