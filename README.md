@@ -1,14 +1,13 @@
-## @sukyoung
+## @sukyoung 
 
 👋 Hi there! This is <b>SuKyoung Shin</b> from South Korea.<br>
 I'm currently learning a variety of IT techs to be <b>a front-end developer.</b> <br><br>
 
 ## Skill-set
 **Familiar:** <br/>
-<img src="https://img.shields.io/badge/-HTML5-%23E34F26?&logo=html5&logoColor=white" alt="HTML5"> 
-<img src="https://img.shields.io/badge/-CSS3-%231572B6?&logo=css3&logoColor=white" alt="CSS3"> 
-<img src="https://img.shields.io/badge/-JavaScript-%23F7DF1E?&logo=JavaScript&logoColor=white" alt="자바스크립트"> 
+<img src="https://img.shields.io/badge/-Next.js-%23000000?&logo=next&logoColor=white" alt="넥스트js">
 <img src="https://img.shields.io/badge/-React.js-%2361DAFB?&logo=react&logoColor=white" alt="리액트js">
+<img src="https://img.shields.io/badge/-JavaScript-%23F7DF1E?&logo=JavaScript&logoColor=white" alt="자바스크립트"> 
 <img src="https://img.shields.io/badge/-jQuery-%230769AD?&logo=jquery&logoColor=white" alt="제이쿼리"> 
 
 **Used once (at least):**  <br/>
