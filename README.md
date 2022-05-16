@@ -2,7 +2,7 @@
 
 👋 Hi there! <br/>
 This is <b>SuKyoung Shin</b> from South Korea.🇰🇷 <br>
-I am a Junior Front-End Developer✨, who loves to learn new things & create meaningful servies to users! <br/></br>
+I am a Junior Front-End Developer✨, who loves to learn new things & create meaningful servies! <br/></br>
 
 ## Skill-set
 **Familiar:** <br/>
