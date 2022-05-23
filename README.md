@@ -12,6 +12,6 @@ Please feel free to contact me anytime via my email address : 📬sukyoung.dev@g
 -->
 
 ## GitHub Stats
-[![SuKyoung's github stats](https://github-readme-stats.vercel.app/api?username=sukyoungshin&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
+[![SuKyoung's github stats](https://github-readme-stats.vercel.app/api?username=sukyoungshin&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsukyoungshin%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
