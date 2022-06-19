@@ -15,3 +15,9 @@ Please feel free to contact me anytime via my email address : 📬sukyoung.dev@g
 [![SuKyoung's github stats](https://github-readme-stats.vercel.app/api?username=sukyoungshin&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsukyoungshin%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
+
+<!-- 
+Leetcode Stats
+<a href="https://github.com/KnlnKS/leetcode-stats"><img alt="LeetCode Stat Card" src="https://apu5rh8gxk.execute-api.us-east-1.amazonaws.com/default/leetcode-stats?username=sukyoungshin&theme=dark" width="495" /></a> 
+ -->
