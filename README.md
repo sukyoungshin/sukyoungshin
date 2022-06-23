@@ -1,6 +1,6 @@
 ## 👋 Hi there 
 
-Weclome to my github! I am a Front-End Developer, who lives in South Korea. <br/>
+Welcome to my github! I am a Front-End Developer, who lives in South Korea. <br/>
 These followings are representative images showing my recent github activites and interest. Thanks!
 
 ### Githut Activities
