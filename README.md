@@ -1,8 +1,7 @@
 ## 👋 Hi there 
 
-Weclome to my github!
-I am a Front-End Developer, who lives in South Korea. <br/>
-These followings are representative images showing my github activites and my interest. Thanks!
+Weclome to my github! I am a Front-End Developer, who lives in South Korea. <br/>
+These followings are representative images showing my recent github activites and interest. Thanks!
 
 ### Githut Activities
 [![](https://raw.githubusercontent.com/sukyoungshin/sukyoungshin/main/profile-summary-card-output/nord_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
