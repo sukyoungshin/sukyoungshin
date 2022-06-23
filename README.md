@@ -1,8 +1,18 @@
-## 👋 Hi there
+## 👋 Hi there 
 
+Weclome to my github!
+I am a Front-End Developer, who lives in South Korea. <br/>
+These followings are representative images showing my github activites and my interest. Thanks!
+
+### Githut Activities
 [![](https://raw.githubusercontent.com/sukyoungshin/sukyoungshin/main/profile-summary-card-output/nord_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/sukyoungshin/sukyoungshin/main/profile-summary-card-output/nord_dark/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/sukyoungshin/sukyoungshin/main/profile-summary-card-output/nord_dark/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/sukyoungshin/sukyoungshin/main/profile-summary-card-output/nord_dark/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/sukyoungshin/sukyoungshin/main/profile-summary-card-output/nord_dark/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
+
+### Algorithm
+<a href="https://github.com/KnlnKS/leetcode-stats"><img alt="LeetCode Stat Card" src="https://apu5rh8gxk.execute-api.us-east-1.amazonaws.com/default/leetcode-stats?username=sukyoungshin&theme=dark" width="350" height="170" style="border-radius:8px;" /></a> [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=superduper&cache=c)](https://solved.ac/superduper)
+
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsukyoungshin%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
@@ -17,8 +27,3 @@
 **Used once (at least)** <br/>
 <img src="https://img.shields.io/badge/-Bootstrap-%237952B3?&logo=bootstrap&logoColor=white" alt="부트스트랩"> <img src="https://img.shields.io/badge/-Node.js-%23339933?&logo=node&logoColor=white" alt="노드js"> <img src="https://img.shields.io/badge/-Redux-%23764ABC?&logo=Redux&logoColor=white" alt="React-redyx">  
 -->
-
-<!-- 
-Leetcode Stats
-<a href="https://github.com/KnlnKS/leetcode-stats"><img alt="LeetCode Stat Card" src="https://apu5rh8gxk.execute-api.us-east-1.amazonaws.com/default/leetcode-stats?username=sukyoungshin&theme=dark" width="495" /></a> 
- -->
