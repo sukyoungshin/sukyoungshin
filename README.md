@@ -9,10 +9,6 @@ These followings are representative images showing my recent github activites an
 [![](https://raw.githubusercontent.com/sukyoungshin/sukyoungshin/main/profile-summary-card-output/nord_dark/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/sukyoungshin/sukyoungshin/main/profile-summary-card-output/nord_dark/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 
-### Algorithm
-<a href="https://github.com/KnlnKS/leetcode-stats"><img alt="LeetCode Stat Card" src="https://apu5rh8gxk.execute-api.us-east-1.amazonaws.com/default/leetcode-stats?username=sukyoungshin&theme=dark" width="350" height="170" style="border-radius:8px;" /></a> [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=superduper&cache=c)](https://solved.ac/superduper)
-
-
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsukyoungshin%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 <!-- 
