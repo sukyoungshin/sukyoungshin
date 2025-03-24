@@ -1,8 +1,8 @@
 name: GitHub-Profile-Summary-Cards
 
 on:
-  schedule: # execute every 24 hours
-    - cron: "* */24 * * *"
+  schedule:
+    - cron: '0 0 * * 1'  # 매주 월요일 00:00 UTC (한국 오전 9시)
   workflow_dispatch:
 
 jobs:
@@ -13,9 +13,8 @@ jobs:
     steps:
       - uses: actions/checkout@v2
       - uses: vn7n24fzkq/github-profile-summary-cards@release
-        env: # default use ${{ secrets.SUMMARY_GITHUB_TOKEN }}, you should replace with your personal access token
+        env:
           GITHUB_TOKEN: ${{ secrets.SUMMARY_GITHUB_TOKEN }}
         with:
           USERNAME: ${{ github.repository_owner }}
-          # UTC_OFFSET is optional, default to zero
-          UTC_OFFSET: 8 
+          UTC_OFFSET: 9
