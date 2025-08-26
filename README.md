@@ -1,13 +1,24 @@
 ## 👋 Hi there 
 
-Welcome to my github! I am a Front-End Developer, who lives in South Korea. <br/>
-These followings are representative images showing my recent github activites and interests.
+Welcome to my GitHub!  
+I'm a Front-End Developer based in South Korea.  
+
+Here are some representative images that showcase my recent activities and interests on GitHub:  
 
 ### Github Activities
 [![](https://raw.githubusercontent.com/sukyoungshin/sukyoungshin/main/profile-summary-card-output/nord_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/sukyoungshin/sukyoungshin/main/profile-summary-card-output/nord_dark/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/sukyoungshin/sukyoungshin/main/profile-summary-card-output/nord_dark/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/sukyoungshin/sukyoungshin/main/profile-summary-card-output/nord_dark/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/sukyoungshin/sukyoungshin/main/profile-summary-card-output/nord_dark/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
+
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=sukyoungshin&utm_content=line">
+  <img
+    src="https://render.gitanimals.org/lines/sukyoungshin?pet-id=748133360937964902"
+    width="600"
+    height="120"
+  />
+</a>
+  
 
 <!-- 
 ## GitHub Stats
