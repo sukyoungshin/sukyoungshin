@@ -1,9 +1,9 @@
 ## 👋 Hi there 
 
 Welcome to my GitHub!  
-I'm a Front-End Developer based in South Korea.  
+I'm a Frontend Developer based in South Korea.  
 
-Here are some representative images that showcase my recent activities and interests on GitHub:  
+Here are some representative images that shows my recent activities and interests on GitHub:  
 
 ### Github Activities
 [![](https://raw.githubusercontent.com/sukyoungshin/sukyoungshin/main/profile-summary-card-output/nord_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
