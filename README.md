@@ -1,7 +1,7 @@
 ## 👋 Hi there 
 
 Welcome to my GitHub!  
-I'm a Frontend Developer based in South Korea.  
+I'm SuKyoung, and a frontend developer in South Korea.  
 
 Here are some representative images that shows my recent activities and interests on GitHub:  
 
